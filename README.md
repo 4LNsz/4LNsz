@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lnsz&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/4LNsz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lnsz&layout=compact&langs_count=6&theme=dark)](https://github.com/4LNsz)
 <!--
 **4LNsz/4LNsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
