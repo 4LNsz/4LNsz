@@ -23,11 +23,21 @@
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="right" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="right" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 
 
 - 👨‍💻 **Software Developer**\
 📆 2022 - moment\
 📍 **Energy (FiveM)** - Caruaru/PE, Brazil
+
+##
+
+<img align="right" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+
+- 👨‍💻 **Software Developer**\
+📆 2022 - 2022\
+📍 **Garty Group (FiveM)** - Caruaru/PE, Brazil
