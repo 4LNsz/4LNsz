@@ -30,7 +30,7 @@
 
 - 👨‍💻 **Software Developer**\
 📆 2022 - moment\
-📍 **Energy (FiveM)** - Caruaru/PE, Brazil
+📍 **Energy (FiveM)** - Remote
 
 ##
 
@@ -40,4 +40,4 @@
 
 - 👨‍💻 **Software Developer**\
 📆 2022 - 2022\
-📍 **Garty Group (FiveM)** - Caruaru/PE, Brazil
+📍 **Garty Group (FiveM)** - Remote
