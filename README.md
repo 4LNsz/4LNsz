@@ -1,29 +1,33 @@
-## Hi there 👋
+<h1 align='center'>Hi there, I'm Alan 👋</h1>
 
-<!--
-**4LNsz/4LNsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  <a href="https://github.com/sponsors/4lnsz">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/4lnsz/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=4LNsz&count_private=true&show_icons=true&include_all_commits=true&theme=dark&locale=en&rank_icon=percentile&show_icons=true&count_private=true" width="350"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4LNsz&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" width="350"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4LNsz&count_private=true&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4LNsz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- 📖 **Science Computer**\
+📆 2020 - moment\
+📍 **Unifavip Wyden** - Caruaru/PE, Brazil
 
-##
+## Experience
 
-<div> 
-  <a href="https://www.twitch.tv/4LNsz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/4LNsz#4436" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
-</div>
-  
-![](https://komarev.com/ghpvc/?username=4LNsz&style=for-the-badge	)
+<img align="right" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="right" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+
+
+- 👨‍💻 **Software Developer**\
+📆 2022 - moment\
+📍 **Energy (FiveM)** - Caruaru/PE, Brazil
