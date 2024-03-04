@@ -10,8 +10,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=4LNsz&count_private=true&show_icons=true&include_all_commits=true&theme=dark&locale=en&rank_icon=percentile&show_icons=true&count_private=true" width="350"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EnergyCity&count_private=true&show_icons=true&include_all_commits=true&theme=dark&locale=en&rank_icon=percentile&show_icons=true&count_private=true" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=4LNsz&count_private=true&show_icons=true&include_all_commits=true&theme=dark&rank_icon=percentile" width="350"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EnergyCity&count_private=true&show_icons=true&theme=dark&rank_icon=percentile" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4LNsz&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" width="350"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnergyCity&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" width="350"></a>
 </p>
