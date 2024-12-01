@@ -32,7 +32,7 @@
 
 
 - 👨‍💻 **Software Developer**\
-📆 2022 - moment\
+📆 2022 - 2024\
 📍 **Energy (FiveM)** - Remote
 
 ##
