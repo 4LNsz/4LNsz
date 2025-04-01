@@ -20,7 +20,7 @@
 ## Education
 
 - 📖 **Science Computer**\
-📆 2020 - moment\
+📆 2020 - 2024\
 📍 **Unifavip Wyden** - Caruaru/PE, Brazil
 
 ## Experience
