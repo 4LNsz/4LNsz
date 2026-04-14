@@ -1,38 +1,66 @@
-<h1 align='center'>Hi there, I'm Alan 👋</h1>
+<div align="center">
 
-<h1 align='center'>
-  <a href="">
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  </a>
-  <br><br>
+# Alan Sena
 
-  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4LNsz&theme=transparent"></a>&nbsp;&nbsp;
-<a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4LNsz&theme=transparent"></a>
-  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4LNsz&theme=transparent"></a>&nbsp;&nbsp;
-</h1>
+### Software Engineer · Back-end · High-Performance Systems
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/4lnsz/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+![Visitor Count](https://komarev.com/ghpvc/?username=4LNsz&style=flat-square&color=blue&label=profile+views)
+
+</div>
+
+---
+
+Back-end Engineer specializing in **high-concurrency systems** and **real-time simulation environments**. My focus is on what's under the hood — architecting logic that stays stable and performant for hundreds of simultaneous users, and hunting down the bottlenecks that degrade infrastructure over time.
+
+I have a proven track record of reducing CPU and RAM consumption on production systems through intelligent refactoring, and experience leading back-end teams from planning to delivery. When needed, I navigate the front-end with full autonomy — React and Vue.js included — but the back-end is home.
+
+---
+
+### stack
+
+**Languages**
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+**Platform & Runtime**
+
+![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
+![CFX.RE](https://img.shields.io/badge/CFX.RE-FF6600?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Database & Infra**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+**When needed**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### now playing
+
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bqmxq0mj45p1wqnk6ubddhemg&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=bqmxq0mj45p1wqnk6ubddhemg&redirect=true)
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/4lnsz/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/4LNsz)
+
+</div>
